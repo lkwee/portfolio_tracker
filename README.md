@@ -2,7 +2,6 @@
 
 A script to **automate portfolio summary** using the **`yfinance`** library.
 
-<img width="925" alt="portfolio" src="https://github.com/user-attachments/assets/your_image_link_here" />
 <br>
 
 The script summarizes a portfolio in **SGD**, fetching real-time **exchange rates** from Yahoo Finance during execution.
