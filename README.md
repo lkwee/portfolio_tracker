@@ -45,9 +45,10 @@ The **weightage** is calculated separately for **USD** and **Non-USD** stocks, a
    - Solution: Use a **preset list** (`etf_tickers`) to manually assign industries.
 
 ---
----
 
 ## 📊 Dashboard Previews
+The resulting csv file are then used to create dashboards and visualization using Power BI.
+Some examples are below.
 
 <table>
   <tr>
