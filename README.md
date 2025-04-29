@@ -45,4 +45,18 @@ The **weightage** is calculated separately for **USD** and **Non-USD** stocks, a
    - Solution: Use a **preset list** (`etf_tickers`) to manually assign industries.
 
 ---
+---
+
+## 📊 Dashboard Previews
+
+<table>
+  <tr>
+    <td><img src="dashboard1.jpg" width="400"/></td>
+    <td><img src="dashboard2.jpg" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="dashboard3.jpg" width="400"/></td>
+    <td><img src="dashboard4.jpg" width="400"/></td>
+  </tr>
+</table>
 
