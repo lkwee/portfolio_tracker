@@ -51,12 +51,12 @@ The **weightage** is calculated separately for **USD** and **Non-USD** stocks, a
 
 <table>
   <tr>
-    <td><img src="dashboard1.jpg" width="400"/></td>
-    <td><img src="dashboard2.jpg" width="400"/></td>
+    <td><img src="Dashboard1.jpg" width="400"/></td>
+    <td><img src="Dashboard2.jpg" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="dashboard3.jpg" width="400"/></td>
-    <td><img src="dashboard4.jpg" width="400"/></td>
+    <td><img src="Dashboard3.jpg" width="400"/></td>
+    <td><img src="Dashboard4.jpg" width="400"/></td>
   </tr>
 </table>
 
