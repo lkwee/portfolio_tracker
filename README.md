@@ -1,5 +1,3 @@
----
-
 # 📈 Portfolio Tracker
 
 A script to **automate portfolio summary** using the **`yfinance`** library.
