@@ -1,5 +1,3 @@
-Here's your text properly formatted for a GitHub README, following the same clean style as the LLM Book Recommendation one you showed earlier:
-
 ---
 
 # 📈 Portfolio Tracker
