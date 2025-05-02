@@ -46,3 +46,18 @@ The **weightage** is calculated separately for **USD** and **Non-USD** stocks, a
 
 ---
 
+## 📊 Dashboard Previews
+The resulting csv file are then used to create dashboards and visualization using Power BI.
+Some examples are below.
+
+<table>
+  <tr>
+    <td><img src="Dashboard1.jpg" width="400"/></td>
+    <td><img src="Dashboard2.jpg" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="Dashboard3.jpg" width="400"/></td>
+    <td><img src="Dashboard4.jpg" width="400"/></td>
+  </tr>
+</table>
+
